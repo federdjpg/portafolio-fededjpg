@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolio-fededjpg/static/css/main.d532259c.chunk.css",
-    "main.js": "/portafolio-fededjpg/static/js/main.97a302d1.chunk.js",
-    "main.js.map": "/portafolio-fededjpg/static/js/main.97a302d1.chunk.js.map",
+    "main.js": "/portafolio-fededjpg/static/js/main.31e3ca65.chunk.js",
+    "main.js.map": "/portafolio-fededjpg/static/js/main.31e3ca65.chunk.js.map",
     "runtime-main.js": "/portafolio-fededjpg/static/js/runtime-main.e4f21a2d.js",
     "runtime-main.js.map": "/portafolio-fededjpg/static/js/runtime-main.e4f21a2d.js.map",
     "static/css/2.b195be0e.chunk.css": "/portafolio-fededjpg/static/css/2.b195be0e.chunk.css",
@@ -20,7 +20,7 @@
     "static/media/git.183b5be9.png": "/portafolio-fededjpg/static/media/git.183b5be9.png",
     "static/media/github.7894bcfa.svg": "/portafolio-fededjpg/static/media/github.7894bcfa.svg",
     "static/media/html52.c7142895.png": "/portafolio-fededjpg/static/media/html52.c7142895.png",
-    "static/media/img1.61a0e09f.png": "/portafolio-fededjpg/static/media/img1.61a0e09f.png",
+    "static/media/img1.93626147.png": "/portafolio-fededjpg/static/media/img1.93626147.png",
     "static/media/img2.087dd435.jpg": "/portafolio-fededjpg/static/media/img2.087dd435.jpg",
     "static/media/img3.814bcf06.jpeg": "/portafolio-fededjpg/static/media/img3.814bcf06.jpeg",
     "static/media/instagram.02967a62.svg": "/portafolio-fededjpg/static/media/instagram.02967a62.svg",
@@ -37,6 +37,6 @@
     "static/css/2.b195be0e.chunk.css",
     "static/js/2.24b5520a.chunk.js",
     "static/css/main.d532259c.chunk.css",
-    "static/js/main.97a302d1.chunk.js"
+    "static/js/main.31e3ca65.chunk.js"
   ]
 }

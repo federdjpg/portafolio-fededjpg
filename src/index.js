@@ -7,10 +7,13 @@ import Popper from 'popper.js';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import registerServiceWorker from 'react-service-worker';
+
+const appSW = registerServiceWorker()
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App appServiceWorker={appSW} />
   </React.StrictMode>,
   document.getElementById('root')
 );
